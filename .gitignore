@@ -6,3 +6,5 @@ build
 
 # modules
 node_modules
+gesetze.json
+words.json
