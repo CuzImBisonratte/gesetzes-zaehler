@@ -3,3 +3,6 @@ src_mod
 
 # Build files
 build
+
+# modules
+node_modules
